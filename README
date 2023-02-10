@@ -1,0 +1,14 @@
+Classical Bot
+===
+Plays the classical WETA audio stream from <https://weta.org/player>.
+
+Usage
+===
+`python<version> main.py <token>`
+
+`>join` to join, `>leave` to leave.
+
+Dependencies
+===
+discord.py
+pycaci
